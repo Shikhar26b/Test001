@@ -8,7 +8,7 @@ class CartPage{
         this.cart =  page.locator("[routerlink*='cart']");
         this.orders = page.locator("button[routerlink*='myorders']");
         this.checkout = page.locator("text=Checkout");
-
+        this.fo  =9
 
     }
 
